@@ -1,4 +1,4 @@
-setup(parseInt(prompt("Canvas Dimensions")));
+setup(64);
 
 function setup(num) {
     var grid = document.getElementById("grid");
